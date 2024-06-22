@@ -5,8 +5,7 @@ order: 4
 ---
 ### 👋
 
-  🏫  Bachelor in Computer Engineering <br/>
-  💻  Hope to be a Data Engineer <br/>
-  🏖️  Get Master Degree in UvA or Edinburgh
-
+  🏫  Master in Computer Science <br/>
+  💻  Data Intern at Philips <br/>
+  🏖️  Live be wild and have fun 
 
