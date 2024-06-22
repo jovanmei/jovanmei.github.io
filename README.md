@@ -1,4 +1,4 @@
-该博客是通过 GitHub Pages + Jekyll(主题是Chirpy) 搭建而成的
+Based on GitHub Pages + Jekyll
 
 Chirpy 主题的 GitHub 链接是：[**Chirpy**][chirpy] 
 
